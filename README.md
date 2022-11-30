@@ -5,8 +5,7 @@
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
-* [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
+
 
 <!-- You can include any other section that is pertinent to your problem -->
 
@@ -25,5 +24,5 @@
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@aveekroy10] - feel free to contact me!
 
